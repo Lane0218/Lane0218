@@ -33,6 +33,12 @@ I prefer building software that is small, opinionated, and genuinely useful in d
 
 ## Featured Projects
 
+### [compiler](https://github.com/Lane0218/compiler)
+
+A SysY compiler built for competitive compiler-system settings, covering the full pipeline from frontend parsing and semantic analysis to target code generation. It uses `ANTLR4` with a C++ frontend, introduces `IR` and `MIR` intermediate representations, and includes optimization work across storage, instructions, control flow, function calls, and the backend. The project received a Third Prize in the national finals of the 2025 Compiler System Design Competition.
+
+`C++` `ANTLR4` `Compiler` `Optimization`
+
 ### [TraceDiary](https://github.com/Lane0218/TraceDiary)
 
 A privacy-first encrypted web diary. It brings together `client-side encryption`, `Git-based sync`, `On This Day`, and `yearly review` in one product, with a focus on making personal records stay valuable over time.
@@ -50,12 +56,6 @@ A web / PWA app that combines task management and calendar planning. Instead of 
 An offline photo-organizing tool for batch-adding white borders, date, location, and description labels to selected photos, then exporting them in a consistent visual style.
 
 `TypeScript` `Desktop App` `EXIF` `Image Processing`
-
-### [TrendRadar](https://github.com/Lane0218/TrendRadar)
-
-A news aggregation and analysis project aimed at extracting signal from noisy information streams. For me, it represents a practical direction around information filtering and tool-assisted judgment.
-
-`Python` `News Aggregation` `Analysis` `Automation`
 
 ## Latest Writing
 
