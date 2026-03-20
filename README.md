@@ -35,7 +35,7 @@ I prefer building software that is small, opinionated, and genuinely useful in d
 
 ### [compiler](https://github.com/Lane0218/compiler)
 
-A SysY compiler built for competitive compiler-system settings, covering the full pipeline from frontend parsing and semantic analysis to target code generation. It uses `ANTLR4` with a C++ frontend, introduces `IR` and `MIR` intermediate representations, and includes optimization work across storage, instructions, control flow, function calls, and the backend. The project received a Third Prize in the national finals of the 2025 Compiler System Design Competition.
+A SysY compiler built for compiler-system competition settings, covering the pipeline from frontend parsing and semantic analysis to target code generation. It uses `ANTLR4`, a C++ frontend, and `IR` / `MIR` intermediate representations, and won a Third Prize in the national finals of the 2025 Compiler System Design Competition.
 
 `C++` `ANTLR4` `Compiler` `Optimization`
 
